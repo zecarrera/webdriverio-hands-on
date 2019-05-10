@@ -64,3 +64,6 @@ package-lock.json
 yarn.lock
 allure-results
 allure-report
+
+#screenshots
+*/screenshots/*
